@@ -1,0 +1,15 @@
+.idea
+node_modules
+npm-debug.log
+debug.log
+src/**/*.js
+*.js.map
+e2e/**/*.js
+e2e/**/*.js.map
+dist/**/*.js
+dist/**/*.css
+dist/**/*.html
+dist/**/*.map
+dist/**/*.json
+dist/**/*.txt
+*.iml
